@@ -1,0 +1,21 @@
+{
+  "name": "c3334chatroom",
+  "description": "A Vue.js project",
+  "main": "",
+  "authors": [
+    "mike_wong <namike623@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "crypto-js": "^3.1.8"
+  }
+}
